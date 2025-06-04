@@ -13,8 +13,9 @@
     <h1>Daftar Penjualan</h1>
     <br>
     <a href="index.php?controller=penjualan&page=tambah" class="btn btn-primary">Tambah Penjualan</a>
-    <a href="index.php?controller=pelanggan" class="btn btn-outline-info">List Pelanggan</a>
-    <a href="index.php?controller=produk" class="btn btn-outline-warning">List Produk</a>
+    <a href="index.php?controller=pelanggan" class="btn btn-outline-info">List Produk</a>
+    <a href="index.php?controller=produk" class="btn btn-outline-success">List Produk</a>
+    <a href="index.php?controller=penjualan" class="btn btn-outline-warning">List Penjualan</a>
     <br><br>    
     <table class="table table-bordered">
         <thead>
